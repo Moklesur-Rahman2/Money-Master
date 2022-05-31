@@ -1,0 +1,10 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.light-gray{
+    background-color: rgb(38 38 38);
+}
+label{
+    width: 75px;
+    font-size: 22px;
+}
